@@ -1,4 +1,7 @@
 void testcase() {
+  var number;
+  const intValue = 10;
+  final doubleValue;
   String name = "Guy";
   String firstName = "Nathan";
   try {
@@ -14,5 +17,4 @@ void testcase() {
 
 void main() {
   testcase();
-  // print("First name is: $firstName");
 }
